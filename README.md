@@ -5,7 +5,18 @@
 
 It excels at depicting heavy low-key dramatic lighting, visible thick brushstrokes, moody skies, fog, and historical realism with a muted, classic color palette.
 
----
+🎨 Style Examples
+
+<img width="1024" height="567" alt="image" src="https://github.com/user-attachments/assets/a8a30051-7004-4b4c-a9a8-d3c549035489" />
+<img width="1024" height="576" alt="image" src="https://github.com/user-attachments/assets/39b722b3-a28a-4b73-b5d2-1485cff9fc77" />
+<img width="1024" height="576" alt="image" src="https://github.com/user-attachments/assets/063cfdbd-2c89-4f12-adf5-8191b05f4bce" />
+<img width="1024" height="576" alt="image" src="https://github.com/user-attachments/assets/e832b5e0-1fa6-4a87-98f4-99d8ae008d20" />
+<img width="512" height="640" alt="image" src="https://github.com/user-attachments/assets/603ec91b-fe47-45d2-99c4-c2d471a3b11e" />
+<img width="512" height="640" alt="image" src="https://github.com/user-attachments/assets/08a6cf0e-caf0-4bd3-820e-a807a6f1f297" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/6c1d942b-5eed-4d12-adad-3d87661c8126" />
+<img width="512" height="640" alt="image" src="https://github.com/user-attachments/assets/815ec99f-b784-4dc5-bce8-e94758a6b7c4" />
+
+
 
 ## 📦 Repository Structure
 This repository contains the core weights along with the original training configuration files for full reproducibility:
